@@ -4,4 +4,6 @@ x = 5
 y = 10
 print (x+y)
 print ('this is for child 1')
+print ('this is for child 1 second')
 print ('This is for child 2')
+
